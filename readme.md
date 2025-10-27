@@ -34,12 +34,63 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-October 27, 2025 at 02:04:17 AM UTC
+October 27, 2025 at 10:27:28 PM UTC
 
 
 ## Theorem
 
-## Papers (0)
+## Papers (50)
+- [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
+- [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
+- [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
+- [Is Artificial Intelligence Generated Image Detection a Solved Problem?](https://arxiv.org/abs/2505.12335)
+- [A Multi-domain Image Translative Diffusion StyleGAN for Iris Presentation Attack Detection](https://arxiv.org/abs/2510.14314)
+- [RareGraph-Synth: Knowledge-Guided Diffusion Models for Generating Privacy-Preserving Synthetic Patient Trajectories in Ultra-Rare Diseases](https://arxiv.org/abs/2510.06267)
+- [MIA-EPT: Membership Inference Attack via Error Prediction for Tabular Data](https://arxiv.org/abs/2509.13046)
+- [CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis](https://arxiv.org/abs/2505.23444)
+- [A Trajectory Generator for High-Density Traffic and Diverse Agent-Interaction Scenarios](https://arxiv.org/abs/2510.02627)
+- [Learning to Generate Object Interactions with Physics-Guided Video Diffusion](https://arxiv.org/abs/2510.02284)
+- [FlexDoc: Parameterized Sampling for Diverse Multilingual Synthetic Documents for Training Document Understanding Models](https://arxiv.org/abs/2510.02133)
+- [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://arxiv.org/abs/2509.22352)
+- [UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments](https://arxiv.org/abs/2509.21733)
+- [Optical Ocean Recipes: Creating Realistic Datasets to Facilitate Underwater Vision Research](https://arxiv.org/abs/2509.20171)
+- [LiDAR Point Cloud Image-based Generation Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2509.18917)
+- [Echo-Path: Pathology-Conditioned Echo Video Generation](https://arxiv.org/abs/2509.17190)
+- [Large Language Models as Realistic Microservice Trace Generators](https://arxiv.org/abs/2502.17439)
+- [Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation](https://arxiv.org/abs/2509.15011)
+- [Synthetic Data and the Shifting Ground of Truth](https://arxiv.org/abs/2509.13355)
+- [Patient-Zero: A Unified Framework for Real-Record-Free Patient Agent Generation](https://arxiv.org/abs/2509.11078)
+- [DualAlign: Generating Clinically Grounded Synthetic Data](https://arxiv.org/abs/2509.10538)
+- [SynDelay: A Synthetic Dataset for Delivery Delay Prediction](https://arxiv.org/abs/2509.05325)
+- [FW-GAN: Frequency-Driven Handwriting Synthesis with Wave-Modulated MLP Generator](https://arxiv.org/abs/2508.21040)
+- [Evaluating Differentially Private Generation of Domain-Specific Text](https://arxiv.org/abs/2508.20452)
+- [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2506.18088)
+- [Bootstrapping Learned Cost Models with Synthetic SQL Queries](https://arxiv.org/abs/2508.19807)
+- [Towards 6G Intelligence: The Role of Generative AI in Future Wireless Networks](https://arxiv.org/abs/2508.19495)
+- [SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits](https://arxiv.org/abs/2509.00071)
+- [Enhancing and Scaling Search Query Datasets for Recommendation Systems](https://arxiv.org/abs/2505.11176)
+- [Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization](https://arxiv.org/abs/2508.16200)
+- [PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data](https://arxiv.org/abs/2502.20616)
+- [GaitCrafter: Diffusion Model for Biometric Preserving Gait Synthesis](https://arxiv.org/abs/2508.13300)
+- [RealAC: A Domain-Agnostic Framework for Realistic and Actionable Counterfactual Explanations](https://arxiv.org/abs/2508.10455)
+- [LingVarBench: Benchmarking LLM for Automated Named Entity Recognition in Structured Synthetic Spoken Transcriptions](https://arxiv.org/abs/2508.15801)
+- [Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection](https://arxiv.org/abs/2508.08593)
+- [SynLLM: A Comparative Analysis of Large Language Models for Medical Tabular Synthetic Data Generation via Prompt Engineering](https://arxiv.org/abs/2508.08529)
+- [Perceptual Evaluation of GANs and Diffusion Models for Generating X-rays](https://arxiv.org/abs/2508.07128)
+- [Neural Network-Based Detection and Multi-Class Classification of FDI Attacks in Smart Grid Home Energy Systems](https://arxiv.org/abs/2508.10035)
+- [Reference-Guided Diffusion Inpainting For Multimodal Counterfactual Generation](https://arxiv.org/abs/2507.23058)
+- [Generating Clinically Realistic EHR Data via a Hierarchy- and Semantics-Guided Transformer](https://arxiv.org/abs/2502.20719)
+- [Variational autoencoder for generating realistic NN-body simulations for dark matter halos](https://arxiv.org/abs/2507.18054)
+- [Bringing Balance to Hand Shape Classification: Mitigating Data Imbalance Through Generative Models](https://arxiv.org/abs/2507.17008)
+- [FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs](https://arxiv.org/abs/2507.15839)
+- [Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation](https://arxiv.org/abs/2507.15361)
+- [Coupling AI and Citizen Science in Creation of Enhanced Training Dataset for Medical Image Segmentation](https://arxiv.org/abs/2409.03087)
+- [APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](https://arxiv.org/abs/2504.03601)
+- [SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models](https://arxiv.org/abs/2507.06405)
+- [Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing](https://arxiv.org/abs/2411.01819)
+- [TaxaPLN: a taxonomy-aware augmentation strategy for microbiome-trait classification including metadata](https://arxiv.org/abs/2507.03588)
+- [Generating Synthetic Relational Tabular Data via Structural Causal Models](https://arxiv.org/abs/2507.03528)
+
 
 ## Library
 
