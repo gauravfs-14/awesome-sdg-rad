@@ -14,22 +14,23 @@ This repository serves as a comprehensive knowledge hub for researchers and prac
 Synthetic Data Generation has evolved from simple statistical mimicry to hybrid frameworks that combine simulation, physical modeling, and generative AI to capture the true mechanisms of data creation. RAD extends SDG by embedding causal structures, measurement physics, and domain constraints, ensuring that artificial datasets not only look real but also behave realistically under domain shifts, privacy audits, and safety analyses.
 
 By consolidating the state of the art, this collection bridges theory and practice, illustrating how realism-aware synthetic data can enable reproducible, privacy-preserving, and trustworthy machine learning systems.
-<!-- 
+
 > [!NOTE]
-> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2508.19239)!  
-> **Title:** *Model Context Protocols in Adaptive Transport Systems: A Survey*  
+> 📢 **Announcement:** Our paper is now available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5679762)!  
+> **Title:** *Realism and Causality in Synthetic Data Generation: A Survey*  
 > If you find this paper interesting, please consider citing our work. Thank you for your support!
 
 ```bibtex
-@article{chhetri2025model,
-  title={Model Context Protocols in Adaptive Transport Systems: A Survey},
-  author={Chhetri, Gaurab and Somvanshi, Shriyank and Islam, Md Monzurul and Brotee, Shamyo and Mimi, Mahmuda Sultana and Koirala, Dipti and Pandey, Biplov and Das, Subasish},
-  journal={arXiv preprint arXiv:2508.19239},
-  year={2025}
+@misc{chhetri2025realism,
+  title        = {Realism and Causality in Synthetic Data Generation: A Survey},
+  author       = {Chhetri, Gaurab and Somvanshi, Shriyank and Sultana Mimi, Mahmuda and Ansari, Mohammed Wasim and Islam, Md Monzurul and Barua, Swastika and Das, Subasish},
+  year         = {2025},
+  month        = {October},
+  note         = {Available at SSRN: \url{https://ssrn.com/abstract=5679762} or \url{http://dx.doi.org/10.2139/ssrn.5679762}},
+  howpublished = {\url{https://ssrn.com/abstract=5679762}},
+  doi          = {10.2139/ssrn.5679762}
 }
 ```
-
--->
 
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
