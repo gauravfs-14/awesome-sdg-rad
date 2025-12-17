@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-December 16, 2025 at 12:49:50 AM UTC
+December 17, 2025 at 12:44:57 AM UTC
 
 
 ## Theorem
 
-## Papers (73)
+## Papers (74)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -114,6 +114,7 @@ December 16, 2025 at 12:49:50 AM UTC
 - [GuidNoise: Single-Pair Guided Diffusion for Generalized Noise Synthesis](https://arxiv.org/abs/2512.04456)
 - [TimeAutoDiff: A Unified Framework for Generation, Imputation, Forecasting, and Time-Varying Metadata Conditioning of Heterogeneous Time Series Tabular Data](https://arxiv.org/abs/2406.16028)
 - [A Practical Framework for Evaluating Medical AI Security: Reproducible Assessment of Jailbreaking and Privacy Vulnerabilities Across Clinical Specialties](https://arxiv.org/abs/2512.08185)
+- [MAISI: Medical AI for Synthetic Imaging](https://arxiv.org/abs/2409.11169)
 
 
 ## Library
