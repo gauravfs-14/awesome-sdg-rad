@@ -35,12 +35,12 @@ By consolidating the state of the art, this collection bridges theory and practi
 Whether you are developing privacy-preserving AI systems, building synthetic data benchmarks, or exploring simulation-to-reality transfer, this repository offers a centralized and continuously evolving platform for advancing realism, causality, and governance in artificial data ecosystems. 
 
 ## Last Updated
-March 11, 2026 at 12:58:25 AM UTC
+March 12, 2026 at 12:55:37 AM UTC
 
 
 ## Theorem
 
-## Papers (97)
+## Papers (98)
 - [Generative Correlation Manifolds: Generating Synthetic Data with Preserved Higher-Order Correlations](https://arxiv.org/abs/2510.21610)
 - [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995)
 - [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
@@ -138,6 +138,7 @@ March 11, 2026 at 12:58:25 AM UTC
 - [The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI](https://arxiv.org/abs/2603.06290)
 - [Text-Driven Emotionally Continuous Talking Face Generation](https://arxiv.org/abs/2603.06071)
 - [Synthetic Homes: An Accessible Multimodal Pipeline for Producing Residential Building Data with Generative AI](https://arxiv.org/abs/2509.09794)
+- [Wrong Code, Right Structure: Learning Netlist Representations from Imperfect LLM-Generated RTL](https://arxiv.org/abs/2603.09161)
 
 
 ## Library
